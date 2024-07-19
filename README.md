@@ -21,7 +21,9 @@ https://github.com/Vigneshmanikandan98/fetch-api-assessment
 4. Once the image has been created run this command to run the image as container "docker run -p 8080:8080 fetchapi", the command runs the container on port 8080.
 
 The app is implemented with basic spring security authentication to the endpoints.
+
 username: admin
+
 password: password
 
 ### Steps to test in Postman
